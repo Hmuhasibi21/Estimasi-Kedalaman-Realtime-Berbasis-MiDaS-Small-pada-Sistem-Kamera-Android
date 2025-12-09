@@ -22,9 +22,9 @@ Depth estimation is a crucial task in computer vision, enabling machines to unde
 
 ## 📸 Screenshots & Demo
 
-| Live View | Depth Map Output |
-|:---:|:---:|
-| ![Live Feed](docs/screenshot_rgb.jpg) | ![Depth Map](docs/screenshot_depth.jpg) |
+| Depth Map Output |
+|:---:|
+| ![Depth Map](docs/screenshot_depth.jpg) |
 
 *(Note: The depth map visualizes proximity using a heatmap: **Red/Orange** indicates close objects, while **Blue** indicates the background)*.
 
