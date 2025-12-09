@@ -2,7 +2,7 @@
 
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat&logo=kotlin)
-![TensorFlow Lite](https://img.shields.io/badge/ML-TensorFlow%20Lite-FF6F00?style=flat&logo=tensorflow)
+![TensorFlow Lite](https://img.shields.io/badge/ML-Midas%20Small-FF6F00?style=flat&logo=midassmall)
 ![OpenCV](https://img.shields.io/badge/Vision-OpenCV-5C3EE8?style=flat&logo=opencv)
 
 This repository contains an Android application implementation for **Real-Time Monocular Depth Estimation** using the **MiDaS-Small v2.1** model. The system is designed to run efficiently on mobile devices with limited computational resources, providing a side-by-side view of the live camera feed and the estimated depth map.
