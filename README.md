@@ -66,7 +66,7 @@ We evaluated the application holistically (End-to-End) on a **Samsung Note 20 Ul
 ### Installation
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/monocular-depth-estimation-android.git](https://github.com/your-username/monocular-depth-estimation-android.git)
+    [git clone [https://github.com/your-username/monocular-depth-estimation-android.git](https://github.com/your-username/monocular-depth-estimation-android.git)](https://github.com/Hmuhasibi21/Estimasi-Kedalaman-Realtime-Berbasis-MiDaS-Small-pada-Sistem-Kamera-Android.git)
     ```
 2.  **Open in Android Studio**
     * Open Android Studio -> File -> Open -> Select the cloned folder.
